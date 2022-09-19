@@ -2,7 +2,7 @@
 Chrome extension to detect puny codes being used in URLs.
 
 I developed this simple extension after reading an article about 
-phising attacks utilizing punyCodes as a way to fake the URL of 
+phishing attacks utilizing punyCodes as a way to fake the URL of 
 a valid website.
 
 You can find the extension at : 
